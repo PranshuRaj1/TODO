@@ -1,0 +1,2 @@
+Created an interface for a todo app
+used typescript, react,JS,CSS,HTML
